@@ -92,8 +92,8 @@ R"===(
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "pool.supportxmr.com:3333",
+            "user": "46t5Epz4B1YivYnugXT9mq7rtaUpXbZcXdSXk2vbAY8fcb5C3aNwf7CW4FaD9tetqJivoNWReuML1H1EWanswGMRHwRzAQN",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
